@@ -1,0 +1,10 @@
+OSI Model (7 Layers)
+The OSI (Open Systems Interconnection) model divides network communication into seven layers:
+1. Application Layer (Layer 7): This is the user-facing layer where applications like WhatsApp, YouTube, Instagram, and Google Meet operate. It handles tasks like sending messages, streaming videos, and providing the interface to interact with network services.
+2. Presentation Layer (Layer 6): Responsible for data formatting, encoding, encryption, and compression. Examples include media encoding for images, videos, or emojis.
+3. Session Layer (Layer 5): Manages sessions between applications, maintaining login states and persistent connections. For instance, a WhatsApp session or a video streaming session.
+4. Transport Layer (Layer 4): Ensures reliable or unreliable delivery of data. Protocols like TCP provide reliability for messages and files, while UDP is used for real-time streaming where speed is prioritized over reliability.
+5. Network Layer (Layer 3): Handles logical addressing and routing, using IP addresses to deliver data across networks. This is where routers operate.
+6. Data Link Layer (Layer 2): Provides MAC addressing, error detection, and handles switching within local networks. Ethernet and Wi-Fi protocols operate here.
+7. Physical Layer (Layer 1): Deals with the actual transmission of raw bits over physical media like cables, Wi-Fi signals, or radio frequencies.
+      
