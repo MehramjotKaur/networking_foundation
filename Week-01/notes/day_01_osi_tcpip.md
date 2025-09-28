@@ -15,10 +15,25 @@
 3. *Transport* – TCP/UDP  
 4. *Application* – Apps like WhatsApp, YouTube, Browsers
 
-## Hands-On Labs
-- Created a simple PC + Switch topology in Packet Tracer.  
-- Mapped daily apps (WhatsApp, YouTube) to OSI layers.  
-- Started TryHackMe “Pre-Security → Intro to Networking” Module 1.
+*Mapping real-world examples:*
+  - WhatsApp → Application Layer
+  - YouTube → Application Layer
+  - Browsers → Application Layer
+  - Ethernet cables → Physical Layer
+  - Routers → Network Layer
+
+## Hands-On
+1. *List apps and map to OSI layers* (see above).
+2. *TryHackMe:* Completed first module of “Pre-Security → Intro to Networking”.
+3. *Packet Tracer:*
+   1. Dragged 2 PCs and a Switch.
+   2. Connected them using a straight-through cable.
+   3. Assigned IP addresses:
+       - PC0: 192.168.1.2 /24
+       - PC1: 192.168.1.3 /24
+   4. Tested connectivity using ping:
+       - PC0 → PC1: Success ✅
+       - PC1 → PC0: Success ✅
 
 ## Key Takeaways
 - Data travels through layers from Application → Physical.  
