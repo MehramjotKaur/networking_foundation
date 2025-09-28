@@ -24,7 +24,7 @@
 
 ## Hands-On
 1. *List apps and map to OSI layers* (see above).
-2. *TryHackMe:* Completed first module of “Pre-Security → Intro to Networking”.
+2. *TryHackMe:* Completed module of “Pre-Security → Networking Fundamentals”.
 3. *Packet Tracer:*
    1. Dragged 2 PCs and a Switch.
    2. Connected them using a straight-through cable.
