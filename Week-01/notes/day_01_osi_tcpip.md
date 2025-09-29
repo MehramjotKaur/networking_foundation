@@ -1,5 +1,4 @@
 # Week 1: OSI & TCP/IP Models
-
 ## OSI Model (7 Layers)
 1. *Physical* – Hardware like cables, switches. Responsible for sending raw data.  
 2. *Data Link* – MAC addresses, frames, and connecting devices in the same network.  
