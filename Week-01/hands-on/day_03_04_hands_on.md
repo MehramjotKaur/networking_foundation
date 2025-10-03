@@ -32,8 +32,9 @@
 ### Objective
 To connect two separate networks via a router and test communication across subnets.
 
-###Topology
-![Packet Tracer Topology](./screenshots/01_topology.png)
+### Topology
+
+![Packet Tracer Topology](Week-01/screenshots/day_03_packet_tracer/01_topology.png)
 
 ### Procedure
 
@@ -57,11 +58,19 @@ To connect two separate networks via a router and test communication across subn
     Router(config-if)# no shutdown
     Router(config-if)# exit
     ```
+![Router CLI Configuration](Week-01/screenshots/day_03_packet_tracer/router_cli_config.png)
+
+![Router Ping Test](Week-01/screenshots/day_03_packet_tracer/router_ping_test.png) 
+
 5. Test connectivity by pinging across subnets:
     ```
     PC0> ping 192.168.2.2
     PC3> ping 192.168.1.3
     ```
+### Ping Test from PCs
+![PC0 Ping Test](Week-01/screenshots/day_03_packet_tracer/pc0_ping_test.png)
+
+![PC3 Ping Test](Week-01/screenshots/day_03_packet_tracer/pc1_ping_test.png)
 
 ### Observations
 
