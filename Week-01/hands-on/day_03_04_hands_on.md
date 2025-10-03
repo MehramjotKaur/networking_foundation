@@ -58,10 +58,10 @@ To connect two separate networks via a router and test communication across subn
     Router(config-if)# no shutdown
     Router(config-if)# exit
     ```
-![Router CLI Configuration](Week-01/screenshots/day_03_packet_tracer/router_cli_config.png)
+![Router CLI Configuration](../screenshots/day_03_packet_tracer/router_cli_config.png)
 
 Shows ping results from router interfaces:
- ![Router Ping Test](Week-01/screenshots/day_03_packet_tracer/router_ping_test.png) 
+ ![Router Ping Test](../screenshots/day_03_packet_tracer/router_ping_test.png) 
 
 5. Test connectivity by pinging across subnets:
     ```
@@ -70,8 +70,8 @@ Shows ping results from router interfaces:
     ```
 ### Ping Test from PCs
 Shows ping results from PC0 → PC2 and PC3 → PC1, verifying inter-subnet connectivity.
-- ![PC0 Ping Test](Week-01/screenshots/day_03_packet_tracer/pc0_ping_test.png)
-- ![PC3 Ping Test](Week-01/screenshots/day_03_packet_tracer/pc1_ping_test.png)
+- ![PC0 Ping Test](../screenshots/day_03_packet_tracer/pc0_ping_test.png)
+- ![PC3 Ping Test](../screenshots/day_03_packet_tracer/pc1_ping_test.png)
 
 ### Observations
 
