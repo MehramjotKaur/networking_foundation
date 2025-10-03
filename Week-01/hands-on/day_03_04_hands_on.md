@@ -32,17 +32,6 @@
 ### Objective
 To connect two separate networks via a router and test communication across subnets.
 
-### Topology
-
-LAN 1: 198.168.1.0/24         Router         LAN 2: 198.168.2.0/24
-+--------+                     +-----+        +--------+
-| PC0    |<--Switch1-->Fa0/0--> |     | <--Fa0/1--> Switch2 -->| PC2   |
-| 198.168.1.2   |               | R1  |        | 198.168.2.2|
-+--------+                      +-----+        +--------+
-| PC1    |                                      | PC3   |
-| 198.168.1.3  |                              | 198.168.2.3|
-+--------+                                      +--------+
-
 ### Procedure
 
 1. Create two separate LANs with PCs and switches.
