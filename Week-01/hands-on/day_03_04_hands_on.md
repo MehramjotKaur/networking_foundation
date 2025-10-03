@@ -34,7 +34,7 @@ To connect two separate networks via a router and test communication across subn
 
 ### Topology
 
-![Packet Tracer Topology](./screenshots/day_03_packet_tracer/01_topology.png)
+![Packet Tracer Topology](../screenshots/day_03_packet_tracer/01_topology.png)
 
 ### Procedure
 
