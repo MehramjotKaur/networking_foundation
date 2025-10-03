@@ -70,8 +70,8 @@ Shows ping results from router interfaces:
     ```
 ### Ping Test from PCs
 Shows ping results from PC0 → PC2 and PC3 → PC1, verifying inter-subnet connectivity.
-- ![PC0 Ping Test](../screenshots/day_03_packet_tracer/pc0_ping_test.png)
-- ![PC3 Ping Test](../screenshots/day_03_packet_tracer/pc1_ping_test.png)
+ ![PC0 Ping Test](../screenshots/day_03_packet_tracer/pc0_ping_test.png)
+ ![PC3 Ping Test](../screenshots/day_03_packet_tracer/pc3_ping_test.png)
 
 ### Observations
 
