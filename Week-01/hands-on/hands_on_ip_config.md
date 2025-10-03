@@ -1,4 +1,4 @@
-# Hands-On: IP Configuration (Windows & Linux)
+# Hands-On: IP Configuration (Windows)
 
 ## Objective
 Learn how to identify and analyze IP settings, subnet mask, and gateway on different operating systems.
