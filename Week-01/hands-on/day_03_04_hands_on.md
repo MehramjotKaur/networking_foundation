@@ -32,6 +32,9 @@
 ### Objective
 To connect two separate networks via a router and test communication across subnets.
 
+###Topology
+![Packet Tracer Topology](./screenshots/01_topology.png)
+
 ### Procedure
 
 1. Create two separate LANs with PCs and switches.
